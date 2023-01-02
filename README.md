@@ -1,6 +1,8 @@
 # Kraftglove-Force-Feedback-Glove
 This repo contains the hardware and software files to build Kraftglove - a VR glove that helps you interact with virtual objects and provides binary force feedback to four fingertips. Each component can be manufactured with a 3D printer or are availabe as norm components (bearings, sensors, actuators etc.). The total cost of manufacturing the glove is around 250€ and it weighs around 650g.
 
+# Working
+The working of the first prototype can be seen in this video: [link](https://tuc.cloud/index.php/s/GKymDdmrFFk3KKa) 
 # Hardware
 The CAD files (Creo) and the STEP file can be found in the hardware folder. Each component can be exported as STL and printed on a 3D-printer. If the project gains attention, the files will be exported as STL and saved in the corresponding folder.
 
