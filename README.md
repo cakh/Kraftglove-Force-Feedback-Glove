@@ -12,3 +12,6 @@ The microcontroller used here is from tinkerforge https://tinkerforge.com/ . Tin
 
 # Sensors and Actuators
 There are four Tinkerforfe potentiometers to measure bending of fingers. An IMU-sensor (Tinkerforge) measures the orientation of the hand. An Oculus-Quest controller attached to arm measures hand position.
+
+# Detailed description
+As of now, a detailed description of the project, its assembly, the software and hardware are not provided, as it is unknown if the project will catch enough attention. But upon demand, the documentation will be expanded so that anyone can assemble and use the haptic glove.
